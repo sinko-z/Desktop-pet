@@ -1,0 +1,20 @@
+[
+  {
+    "id": "3c67af432e8e",
+    "name": "金子",
+    "mode": "cutout",
+    "source": "176bae62cc040f8b37c50fe67bb22981.jpg",
+    "created_at": 1792851021.2065547,
+    "image": "data/pets/3c67af432e8e/pet.png",
+    "thumb": "data/pets/3c67af432e8e/thumb.png"
+  },
+  {
+    "id": "9070da138586",
+    "name": "团子",
+    "mode": "builtin",
+    "source": "内置形象",
+    "created_at": 1792850956.7863414,
+    "image": "data/pets/9070da138586/pet.png",
+    "thumb": "data/pets/9070da138586/thumb.png"
+  }
+]

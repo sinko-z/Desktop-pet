@@ -1,0 +1,23 @@
+{
+  "autostart": false,
+  "always_on_top": true,
+  "wander": true,
+  "pet_height": 160,
+  "pet_pos": [
+    1782,
+    510
+  ],
+  "user_name": "你",
+  "onboarded": true,
+  "remind_rest": true,
+  "rest_interval_min": 50,
+  "rest_snooze_min": 15,
+  "idle_reset_min": 5,
+  "mood_check_min": 120,
+  "llm": {
+    "enabled": false,
+    "base_url": "",
+    "api_key": "",
+    "model": ""
+  }
+}

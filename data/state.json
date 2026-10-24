@@ -12,11 +12,11 @@
     },
     "3c67af432e8e": {
       "hunger": 100.0,
-      "mood": 90.0,
-      "affection": 4.0,
-      "feeds": 1,
+      "mood": 94.42665903234482,
+      "affection": 5.0,
+      "feeds": 2,
       "pets": 1,
-      "last_seen": 1792851110.0584576,
+      "last_seen": 1792852777.4427676,
       "history": [
         {
           "role": "me",
